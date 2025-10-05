@@ -1,0 +1,9 @@
+[project]
+name = "fp-de-home-assignment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.10.12"
+dependencies = [
+    "pydantic>=2.11.10",
+]
