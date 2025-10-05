@@ -20,5 +20,3 @@ Alternatively, if you have Spark locally installed, it is possible to run the jo
 ```bash
 spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.13:4.0.1 --jars spark/jars/spark-streaming-kafka-0-10_2.13-4.0.1.jar  src/main.py
 ```
-# fp-de-home-assignment
-# fp-de-home-assignment
